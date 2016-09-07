@@ -1,0 +1,17 @@
+#bannerhtml_sub p
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: white;
+
+}
+#close_banner
+{
+    position: inherit;
+    float: right;
+    font-size: 11px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    color: #adadad;
+}
